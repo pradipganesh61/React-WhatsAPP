@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea86930d.chunk.css",
+    "main.js": "/static/js/main.cf20fe64.chunk.js",
+    "main.js.map": "/static/js/main.cf20fe64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67bfdc7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67bfdc7e.js.map",
+    "static/css/2.f83ff78f.chunk.css": "/static/css/2.f83ff78f.chunk.css",
+    "static/js/2.ae5e681e.chunk.js": "/static/js/2.ae5e681e.chunk.js",
+    "static/js/2.ae5e681e.chunk.js.map": "/static/js/2.ae5e681e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f4fa7d59fec23cf4a0eb654656b4d3c0.js": "/precache-manifest.f4fa7d59fec23cf4a0eb654656b4d3c0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f83ff78f.chunk.css.map": "/static/css/2.f83ff78f.chunk.css.map",
+    "static/css/main.ea86930d.chunk.css.map": "/static/css/main.ea86930d.chunk.css.map",
+    "static/js/2.ae5e681e.chunk.js.LICENSE.txt": "/static/js/2.ae5e681e.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "/static/media/whatsapp-chat-bg.adbccee0.png",
+    "static/media/whatsapp-connect.jpg": "/static/media/whatsapp-connect.fcf34c63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67bfdc7e.js",
+    "static/css/2.f83ff78f.chunk.css",
+    "static/js/2.ae5e681e.chunk.js",
+    "static/css/main.ea86930d.chunk.css",
+    "static/js/main.cf20fe64.chunk.js"
+  ]
+}
